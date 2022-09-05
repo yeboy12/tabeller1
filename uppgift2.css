@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+    color: rgb(255, 81, 0);
+}
+H1{ font-size: 22px;
+    font-family: Arial;
+}
+.program{ background-color: black;
+color: aliceblue;
+text-align: center; }
+.uppgift{ text-align: right;}
+.uppgift2{border: 1px solid rgb(0, 0, 0);
+}
+.link{text-decoration: none;}
